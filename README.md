@@ -32,7 +32,7 @@ The project has two implementations:
 
 ## Live Demo
 **UI Walkthrough Video:** https://drive.google.com/file/d/1D5pdhaueai2HByMON5tfxmqbNtAa2f0v/view?usp=drive_link
-**Video Link:** https://drive.google.com/file/d/15H53i1Ivrg60YZ9CJHNgLN1hggIKgSAU/view?usp=drivesdk
+          **Video Link:** https://drive.google.com/file/d/15H53i1Ivrg60YZ9CJHNgLN1hggIKgSAU/view?usp=drivesdk
 **PPT:** https://docs.google.com/presentation/d/1uZ6JhnlenV98laIjlREvM57sgYoOJiAz/edit?pli=1&slide=id.p2#slide=id.p2
 
 ---
