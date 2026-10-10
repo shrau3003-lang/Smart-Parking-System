@@ -32,7 +32,7 @@ The project has two implementations:
 
 ## Live Demo
 
-- **Live Website:** [Open Smart Parking System](https://id-preview--61fb5c86-adb8-4979-b4c0-147d674eb6c0.lovable.app/)
+- **Live Website:** [Open Smart Parking System](https://park-palace-22.lovable.app)
   
 - **UI Walkthrough Video:** [Watch UI Demo](https://drive.google.com/file/d/1D5pdhaueai2HByMON5tfxmqbNtAa2f0v/view?usp=drive_link)
 
